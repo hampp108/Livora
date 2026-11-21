@@ -1,50 +1,45 @@
-<div align="center">
+# 🏛️ Livora
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:B8925A&text=LIVORA&fontColor=E6C98F&fontSize=70&fontAlignY=40&desc=Architectural%203D%20Interior%20Design%20Studio&descSize=22&descAlignY=62" alt="Livora — Architectural 3D Interior Design Studio" width="100%"/>
+### Architectural 3D Interior Design Studio
 
-<img src="https://www.google.com/s2/favicons?domain=livora-seven-ebon.vercel.app&sz=128" alt="Livora logo" width="72"/>
-
-## Livora
-
-### Design, furnish, and illuminate photorealistic 3D rooms.
-
-<br/>
+**Design, furnish, and light a realistic 3D room right in your browser. No installs and no sign-up.**
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-OPEN_STUDIO-C4A574?style=for-the-badge&labelColor=0D1117)](https://livora-seven-ebon.vercel.app/)
 [![Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
-[![Rendering](https://img.shields.io/badge/RENDERING-3D_|_PBR-6C63FF?style=for-the-badge&logo=threedotjs&logoColor=white)](https://livora-seven-ebon.vercel.app/)
+[![3D PBR](https://img.shields.io/badge/RENDERING-3D_|_PBR-6C63FF?style=for-the-badge&logo=threedotjs&logoColor=white)](https://livora-seven-ebon.vercel.app/)
 [![License](https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge)](LICENSE)
 
-</div>
+### 👉 [Try it live: livora-seven-ebon.vercel.app](https://livora-seven-ebon.vercel.app/)
 
 ---
 
-## ✨ Overview
+## 💡 The Problem
 
-**Livora** is a browser-based architectural 3D interior design studio. Design, furnish, and illuminate photorealistic rooms with architectural PBR materials, lighting presets, and first-person walkthroughs — no installs required.
+Planning an interior is hard to picture. Floor plans are flat, and professional 3D tools are expensive and difficult to learn.
 
-🔗 **Live site:** [livora-seven-ebon.vercel.app](https://livora-seven-ebon.vercel.app/)
+## ✅ Our Solution
 
----
-
-## 🖼️ Live Preview
-
-<div align="center">
-<a href="https://livora-seven-ebon.vercel.app/">
-<img src="https://image.thum.io/get/width/1200/https://livora-seven-ebon.vercel.app/" alt="Livora live preview" width="90%"/>
-</a>
-</div>
+Livora lets anyone build a room in 3D, place furniture, change the lighting, and walk through the result, all in the browser.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-| | Feature | Description |
-|---|---|---|
-| 🛋️ | **Design Mode** | Place, move, and arrange furniture inside a 3D room. |
-| 💡 | **Lighting Presets** | Switch between lighting moods to see how a space feels at different times. |
-| 🚶 | **Walkthrough** | Explore your finished design in first person. |
-| 🎨 | **PBR Materials** | Physically based architectural materials for realistic surfaces. |
+| Feature | What it does |
+|---|---|
+| 🛋️ **Design Mode** | Place, move, and arrange furniture in a 3D room |
+| 💡 **Lighting Presets** | Switch lighting moods to see how the space feels |
+| 🚶 **Walkthrough** | Explore your design in first person |
+| 🎨 **PBR Materials** | Realistic surfaces that react to light |
+
+---
+
+## ⚡ Try It in 30 Seconds
+
+1. Open the [live demo](https://livora-seven-ebon.vercel.app/)
+2. Start in **Design Mode** and add some furniture
+3. Switch **Lighting Presets** to change the mood
+4. Enter **Walkthrough** to explore the room
 
 ---
 
@@ -52,32 +47,33 @@
 
 | Layer | Technology |
 |---|---|
-| 3D rendering | [Three.js](https://threejs.org/) (WebGL, PBR materials, lighting) |
-| Build tool / dev server | [Vite](https://vitejs.dev/) |
+| 3D rendering | Three.js (WebGL, PBR materials) |
+| Build tool | Vite |
 | Language | JavaScript, HTML, CSS |
-| Package manager | npm |
-| Hosting | [Vercel](https://vercel.com/) |
+| Hosting | Vercel |
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Run Locally
 
 ```bash
-# 1. Clone the repository
 git clone https://github.com/<your-username>/livora.git
 cd livora
-
-# 2. Install dependencies
 npm install
-
-# 3. Start the dev server
 npm run dev
-
-# 4. Build for production
-npm run build
 ```
 
-Then open <http://localhost:5173> (or the port shown in your terminal).
+Open <http://localhost:5173> (or the port shown in your terminal).
+
+To build for production, run `npm run build`.
+
+---
+
+## 🔮 Future Scope
+
+- Save and share designs
+- A larger furniture and materials library
+- Export a room as an image or 3D file
 
 ---
 
@@ -85,8 +81,4 @@ Then open <http://localhost:5173> (or the port shown in your terminal).
 
 Released under the [MIT License](LICENSE).
 
-<div align="center">
-
 **[Livora](https://livora-seven-ebon.vercel.app/)** — Illuminate your space.
-
-</div>
