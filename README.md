@@ -75,7 +75,7 @@ LIVORA makes exploring creative spaces intuitive and engaging.
 
 ### Home — Explore Your Creative Space
 
-<img src="assets/screenshots/homepage.png" width="600" alt="LIVORA Homepage"/>
+<img src="./assets/liv1.png" width="600" alt="LIVORA Homepage"/>
 
 *Discover room categories, explore interior styles, and preview architectural spaces.*
 
@@ -83,7 +83,7 @@ LIVORA makes exploring creative spaces intuitive and engaging.
 
 ### Sign In — Enter Your Creative Space
 
-<img src="assets/screenshots/signin.png" width="600" alt="LIVORA Sign In Page"/>
+<img src="./assets/liv2.png" width="600" alt="LIVORA Sign In Page"/>
 
 *A minimal, elegant authentication interface inspired by modern architectural design.*
 
