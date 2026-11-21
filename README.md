@@ -1,8 +1,11 @@
- <div align="center">
 
-<img src="./assets/livora-logo.png" width="190" alt="LIVORA Logo"/>
+<div align="center">
+
+<img src="assets/livora-3d-orbit.gif" width="100%" alt="LIVORA 3D Animated Logo"/>
 
 <br/>
+
+<img src="assets/livora-logo.png" width="220" alt="LIVORA Logo"/>
 
 # L I V O R A
 
@@ -10,15 +13,9 @@
 
 **Design Every Room Before You Move a Single Piece.**
 
-<br/>
+[![Live Website](https://img.shields.io/badge/EXPLORE_LIVORA-30312D?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
 
-[![Live Website](https://img.shields.io/badge/LIVE_EXPERIENCE-Explore_LIVORA-33342D?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
-![Architecture](https://img.shields.io/badge/DOMAIN-3D_ARCHITECTURE-858D78?style=for-the-badge)
-![Status](https://img.shields.io/badge/DEPLOYMENT-LIVE-33342D?style=for-the-badge)
-
-<br/>
-
-*Imagine the space. Visualize the possibilities. Design with confidence.*
+*DESIGN · DEPTH · EXPERIENCE*
 
 </div>
 
@@ -26,243 +23,186 @@
 
 <div align="center">
 
-<img src="./assets/livora-hero.png" width="100%" alt="LIVORA Cinematic Architectural Interior"/>
-
-### A DIFFERENT WAY TO THINK ABOUT YOUR SPACE.
+<img src="assets/livora-branding.png" width="100%" alt="LIVORA Original Website Branding"/>
 
 </div>
 
-# 01. THE VISION
+# 01 — THE VISION
 
 **What if you could experience your room before moving a single piece of furniture?**
 
-LIVORA is an architectural 3D room-planning experience built around one simple idea: people should be able to imagine, explore, and plan their living spaces before making real-world design decisions.
+LIVORA is an architectural 3D room-planning experience designed to transform how people visualize, explore, and plan their living spaces.
 
-Traditional room planning often begins with measurements, imagination, and uncertainty.
-
-LIVORA aims to make that process more visual, engaging, and intuitive through a modern digital experience inspired by contemporary architecture and interior design.
+Combining architectural aesthetics, spatial visualization, and modern web experiences, LIVORA aims to make interior planning more intuitive and engaging.
 
 > A room is more than four walls. It is an experience waiting to be designed.
 
-# 02. THE LIVORA EXPERIENCE
-
-The experience is built around the relationship between space, design, and visualization.
-
-| Experience | Purpose |
-|:---|:---|
-| Spatial visualization | Understand the possibilities of a room |
-| Room planning | Think about layouts and spatial arrangements |
-| Interior aesthetics | Explore the relationship between furniture, materials and design |
-| Visual experience | Make room planning engaging and intuitive |
-| Modern interface | Navigate an architectural experience with clarity |
-
-# 03. EXPLORE THE INTERFACE
+# 02 — THE EXPERIENCE
 
 <div align="center">
 
-<img src="./assets/livora-preview.png" width="100%" alt="LIVORA Website Interface"/>
-
-*An interface inspired by architectural minimalism and contemporary luxury.*
+<img src="assets/livora-interior-hero.png" width="100%" alt="LIVORA Architectural Interior"/>
 
 </div>
 
-### Design characteristics
+### EXPLORE
 
-- Warm ivory backgrounds.
-- Charcoal typography.
-- Muted sage-green accents.
-- Elegant editorial-style headings.
-- Minimalist architectural compositions.
-- Carefully balanced visual hierarchy.
+Discover possibilities through an architecture-inspired digital experience.
 
-# 04. DESIGN SYSTEM
+### VISUALIZE
 
-LIVORA follows a consistent visual language inspired by premium architecture studios.
+Understand spatial arrangements and interior design concepts.
 
-### Colour palette
+### PLAN
 
-| Colour | Hex | Application |
-|:---|:---|:---|
-| Warm Ivory | `#F3F0E8` | Main backgrounds |
-| Charcoal | `#30312D` | Primary typography |
-| Muted Sage | `#818A75` | Accent elements |
-| Soft Stone | `#D8D2C7` | Secondary surfaces |
-| Deep Olive | `#42473B` | Brand identity |
+Think about room layouts, furniture arrangements, and proportions.
 
-### Typography
+### EXPERIENCE
 
-- Editorial serif for expressive headlines.
-- Clean sans-serif for interface elements.
-- Generous letter spacing for architectural labels.
-- Strong contrast between headings and supporting content.
+Bring your design vision closer to reality through visualization.
 
-# 05. HOW THE PLATFORM IS ORGANIZED
+# 03 — DESIGN IDENTITY
 
-The project can be understood through four main stages.
+| Element | Design |
+|---|---|
+| Brand | LIVORA |
+| Logo | Geometric architectural cube |
+| Background | Warm Ivory |
+| Typography | Editorial Serif |
+| Primary text | Charcoal |
+| Accent | Muted Sage |
+| Visual direction | Minimalist Luxury |
+| Theme | Architectural 3D Planning |
+
+### Colour Palette
+
+<div align="center">
+
+`#F3F0E8` IVORY · `#30312D` CHARCOAL · `#818A75` SAGE · `#D8D2C7` STONE
+
+</div>
+
+# 04 — PLATFORM WORKFLOW
 
 ```mermaid
 flowchart TD
-    A["LIVORA"] --> B["Explore the Space"]
-    B --> C["Understand Room Dimensions"]
-    C --> D["Plan Interior Layout"]
-    D --> E["Visualize Design Possibilities"]
+    A["LIVORA"] --> B["Explore Spaces"]
+    B --> C["Understand Dimensions"]
+    C --> D["Plan Room Layout"]
+    D --> E["Visualize Design"]
     E --> F["Refine Your Vision"]
 
     style A fill:#42473B,color:#fff
     style F fill:#818A75,color:#fff
 ```
 
-# 06. TECHNOLOGY & ENGINEERING
+# 05 — TECHNOLOGY STACK
 
-LIVORA is deployed through Vercel and is designed as a modern web-based architectural experience.
-
-The exact implementation stack should be reflected from the repository's `package.json`.
+The exact technologies should match the dependencies in the project repository.
 
 | Layer | Technology |
-|:---|:---|
-| Frontend | Verify from project dependencies |
-| Styling | Verify from project dependencies |
-| 3D rendering | Verify from project dependencies |
-| Animation | Verify from project dependencies |
+|---|---|
 | Deployment | Vercel |
-| Version control | Git and GitHub |
+| Frontend | Check package.json |
+| Styling | Check package.json |
+| 3D Rendering | Check package.json |
+| Animation | Check package.json |
+| Version Control | Git & GitHub |
 
-# 07. PROJECT ARCHITECTURE
-
-An illustrative project organization:
+# 06 — PROJECT STRUCTURE
 
 ```text
 LIVORA/
 │
-├── public/
-│   ├── images/
-│   ├── models/
-│   └── icons/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   ├── assets/
-│   └── utils/
-│
 ├── assets/
+│   ├── livora-3d-orbit.gif
 │   ├── livora-logo.png
-│   ├── livora-hero.png
-│   └── livora-preview.png
+│   ├── livora-branding.png
+│   └── livora-interior-hero.png
 │
+├── public/
+├── src/
 ├── package.json
-├── README.md
-└── ...
+└── README.md
 ```
 
-*The structure above is illustrative. Adjust it to match your actual repository.*
-
-# 08. INSTALLATION & LOCAL DEVELOPMENT
-
-Want to explore LIVORA locally or contribute to its development?
+# 07 — RUN LOCALLY
 
 ### Prerequisites
 
 - Node.js
-- npm (or your project's configured package manager)
+- npm
 - Git
 
-### Step 1 — Clone the repository
+### Clone the repository
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-### Step 2 — Navigate into the project
+### Navigate into the project
 
 ```bash
 cd YOUR_PROJECT_FOLDER
 ```
 
-### Step 3 — Install dependencies
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### Step 4 — Start development
+### Start the development server
 
 ```bash
 npm run dev
 ```
 
-### Step 5 — Open the application
+Open the local URL displayed in your terminal.
 
-```text
-http://localhost:3000
-```
-
-*Follow the scripts and environment configuration in your actual project if they differ.*
-
-# 09. DEPLOYMENT
+# 08 — DEPLOYMENT
 
 LIVORA is deployed using Vercel.
 
-To deploy your own version:
-
-1. Push your project to GitHub.
-2. Import the repository into Vercel.
-3. Configure the appropriate build settings.
-4. Add any required environment variables.
-5. Deploy your application.
-
-**Live application:**
+**Live Website:**
 
 [https://livora-seven-ebon.vercel.app/](https://livora-seven-ebon.vercel.app/)
 
-# 10. FUTURE ROADMAP
+To deploy your own version:
 
-The long-term vision for LIVORA extends beyond a visual website.
+1. Push the project to GitHub.
+2. Import the repository into Vercel.
+3. Configure the build settings.
+4. Deploy the application.
 
-The following are potential development directions, not claims about currently available features.
+# 09 — FUTURE ROADMAP
 
-- [ ] Interactive 3D room customization.
-- [ ] Real-time furniture placement.
-- [ ] Dynamic room dimensions and layouts.
-- [ ] Furniture libraries and object positioning.
-- [ ] Material and texture customization.
-- [ ] AI-powered interior design recommendations.
-- [ ] Virtual room walkthroughs.
-- [ ] Save and share personalized room designs.
-- [ ] Multiple architectural styles.
-- [ ] Responsive 3D design workspace.
+Potential future improvements:
 
-# 11. CONTRIBUTING
+- [ ] Interactive 3D room customization
+- [ ] Real-time furniture placement
+- [ ] Adjustable room dimensions
+- [ ] Material and texture customization
+- [ ] AI-powered interior recommendations
+- [ ] Virtual room walkthroughs
+- [ ] Save and share room designs
+- [ ] Multiple architectural styles
 
-Ideas, improvements, and contributions are welcome.
+# 10 — CONTRIBUTION
 
-If you would like to contribute:
+Contributions and suggestions are welcome.
 
 1. Fork the repository.
-2. Create a feature branch.
-3. Implement your improvements.
-4. Test your changes.
+2. Create a new branch.
+3. Make your changes.
+4. Test your implementation.
 5. Submit a pull request.
 
-# 12. PROJECT DETAILS
-
-| Information | Details |
-|:---|:---|
-| Project | LIVORA |
-| Category | Architectural 3D Room Planning |
-| Platform | Web Application |
-| Hosting | Vercel |
-| Repository | Your GitHub repository |
-| Status | Deployed |
-
-# 13. EXPERIENCE LIVORA
+---
 
 <div align="center">
 
-<img src="./assets/livora-logo.png" width="130" alt="LIVORA"/>
-
-<br/>
+<img src="assets/livora-logo.png" width="160" alt="LIVORA"/>
 
 # L I V O R A
 
@@ -270,16 +210,8 @@ If you would like to contribute:
 
 **Design Every Room Before You Move a Single Piece.**
 
-<br/>
+[![Visit LIVORA](https://img.shields.io/badge/ENTER_LIVORA-30312D?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
 
-[![Explore the Website](https://img.shields.io/badge/ENTER_THE_LIVORA_EXPERIENCE-30312D?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
-
-<br/>
-
-*Where imagination meets architecture.*
-
----
-
-**BUILT WITH CREATIVITY. DESIGNED FOR POSSIBILITY.**
+*DESIGN · DEPTH · EXPERIENCE*
 
 </div>
