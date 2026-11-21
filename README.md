@@ -1,84 +1,74 @@
-# 🏛️ Livora
+<div align="center">
 
-### Architectural 3D Interior Design Studio
+```
+██╗     ██╗██╗   ██╗ ██████╗ ██████╗  █████╗ 
+██║     ██║██║   ██║██╔═══██╗██╔══██╗██╔══██╗
+██║     ██║██║   ██║██║   ██║██████╔╝███████║
+██║     ██║╚██╗ ██╔╝██║   ██║██╔══██╗██╔══██║
+███████╗██║ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-**Design, furnish, and light a realistic 3D room right in your browser. No installs and no sign-up.**
+### 🏛️ Architectural 3D Interior Design Studio
+
+*Don't imagine your room. Walk into it.*
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-OPEN_STUDIO-C4A574?style=for-the-badge&labelColor=0D1117)](https://livora-seven-ebon.vercel.app/)
 [![Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://livora-seven-ebon.vercel.app/)
 [![3D PBR](https://img.shields.io/badge/RENDERING-3D_|_PBR-6C63FF?style=for-the-badge&logo=threedotjs&logoColor=white)](https://livora-seven-ebon.vercel.app/)
 [![License](https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge)](LICENSE)
 
-### 👉 [Try it live: livora-seven-ebon.vercel.app](https://livora-seven-ebon.vercel.app/)
+### 👉 [**Enter the studio: livora-seven-ebon.vercel.app**](https://livora-seven-ebon.vercel.app/)
+
+</div>
 
 ---
 
-## 💡 The Problem
+## ⚡ In 10 Seconds
 
-Planning an interior is hard to picture. Floor plans are flat, and professional 3D tools are expensive and difficult to learn.
+> **Livora** lets anyone **design, furnish, and illuminate a photorealistic 3D room in the browser**, then **walk through it in first person**. There's no software to install and no account to create.
 
-## ✅ Our Solution
-
-Livora lets anyone build a room in 3D, place furniture, change the lighting, and walk through the result, all in the browser.
-
----
-
-## 🚀 Key Features
-
-| Feature | What it does |
-|---|---|
-| 🛋️ **Design Mode** | Place, move, and arrange furniture in a 3D room |
-| 💡 **Lighting Presets** | Switch lighting moods to see how the space feels |
-| 🚶 **Walkthrough** | Explore your design in first person |
-| 🎨 **PBR Materials** | Realistic surfaces that react to light |
+| 🎯 Who it's for | 🧩 What it solves | 🏁 How to try it |
+|---|---|---|
+| Homeowners, students, and designers | Flat floor plans are hard to picture, and pro 3D tools are expensive and complex | Open the link and start designing |
 
 ---
 
-## ⚡ Try It in 30 Seconds
+## 🎬 The Experience
 
-1. Open the [live demo](https://livora-seven-ebon.vercel.app/)
-2. Start in **Design Mode** and add some furniture
-3. Switch **Lighting Presets** to change the mood
-4. Enter **Walkthrough** to explore the room
-
----
-
-## 🧰 Tech Stack
-
-| Layer | Technology |
-|---|---|
-| 3D rendering | Three.js (WebGL, PBR materials) |
-| Build tool | Vite |
-| Language | JavaScript, HTML, CSS |
-| Hosting | Vercel |
-
----
-
-## 🛠️ Run Locally
-
-```bash
-git clone https://github.com/<your-username>/livora.git
-cd livora
-npm install
-npm run dev
+```mermaid
+flowchart LR
+    A["🏠 Build the room"] --> B["🛋️ Furnish it"]
+    B --> C["💡 Set the lighting"]
+    C --> D["🚶 Walk through it"]
 ```
 
-Open <http://localhost:5173> (or the port shown in your terminal).
-
-To build for production, run `npm run build`.
-
----
-
-## 🔮 Future Scope
-
-- Save and share designs
-- A larger furniture and materials library
-- Export a room as an image or 3D file
+| Step | Mode | What you do |
+|:---:|---|---|
+| **1** | 🛋️ **Design Mode** | Place, move, and arrange furniture in a 3D room |
+| **2** | 💡 **Lighting Presets** | Switch moods and see how the same room feels at a different time of day |
+| **3** | 🚶 **Walkthrough** | Step inside in first person and judge the space at human scale |
+| **✦** | 🎨 **PBR Materials** | Surfaces that react to light like real wood, stone, and fabric |
 
 ---
 
-## 📄 License
+## 🆚 Why Livora Is Different
 
-Released under the [MIT License](LICENSE).
+| | Floor-plan apps | Heavy 3D software | **Livora** |
+|---|:---:|:---:|:---:|
+| Runs in the browser | ✅ | ❌ | ✅ |
+| Realistic 3D view | ❌ | ✅ | ✅ |
+| Easy for beginners | ✅ | ❌ | ✅ |
+| Lighting moods | ❌ | ✅ | ✅ |
+| First-person walkthrough | ❌ | ⚠️ | ✅ |
 
-**[Livora](https://livora-seven-ebon.vercel.app/)** — Illuminate your space.
+---
+
+## 🧠 How It Works
+
+```mermaid
+flowchart TD
+    U["👤 Your browser"] --> V["⚡ Vite app"]
+    V --> T["🧊 Three.js scene"]
+    T --> M["🎨 PBR materials"]
+    T --> L["💡
