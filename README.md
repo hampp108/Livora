@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Livora — Architectural 3D Interior Design Studio" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:B8925A&text=LIVORA&fontColor=E6C98F&fontSize=70&fontAlignY=40&desc=Architectural%203D%20Interior%20Design%20Studio&descSize=22&descAlignY=62" alt="Livora — Architectural 3D Interior Design Studio" width="100%"/>
 
-<br/>
+<img src="https://www.google.com/s2/favicons?domain=livora-seven-ebon.vercel.app&sz=128" alt="Livora logo" width="72"/>
+
+## Livora
 
 ### Design, furnish, and illuminate photorealistic 3D rooms.
 
@@ -25,6 +27,16 @@
 
 ---
 
+## 🖼️ Live Preview
+
+<div align="center">
+<a href="https://livora-seven-ebon.vercel.app/">
+<img src="https://image.thum.io/get/width/1200/https://livora-seven-ebon.vercel.app/" alt="Livora live preview" width="90%"/>
+</a>
+</div>
+
+---
+
 ## 🚀 Features
 
 | | Feature | Description |
@@ -35,8 +47,6 @@
 | 🎨 | **PBR Materials** | Physically based architectural materials for realistic surfaces. |
 
 ---
-
-<!-- GALLERY:START --><!-- GALLERY:END -->
 
 ## 🧰 Tech Stack
 
