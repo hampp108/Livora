@@ -1,164 +1,128 @@
-# ✨ LIVORA — Experience Spaces Beyond Imagination
+# LIVORA — Architectural 3D Interior Design Studio
 
 <p align="center">
-  <b>Where Architecture Meets Imagination.</b>
-  <br/>
-  An immersive 3D interior design experience built to transform the way people visualize, explore, and experience spaces.
+  <a href="https://livora-seven-ebon.vercel.app/">
+    <img src="https://livora-seven-ebon.vercel.app/favicon.ico" width="90" alt="LIVORA Website Icon"/>
+  </a>
+</p>
+
+<h1 align="center">L I V O R A</h1>
+
+<h3 align="center">
+  ✦ Imagine It. Design It. Experience It. ✦
+</h3>
+
+<p align="center">
+  <b>Beyond Spaces. Beyond Imagination.</b>
 </p>
 
 <p align="center">
-  <a href="https://livora-seven-ebon.vercel.app/">🌐 Live Demo</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-getting-started">Getting Started</a>
+  <a href="https://livora-seven-ebon.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE-LIVORA-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore LIVORA"/>
+  </a>
+  <img src="https://img.shields.io/badge/Experience-3D-8B7355?style=for-the-badge" alt="3D Experience"/>
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel"/>
 </p>
 
 ---
 
-## 🏛️ About LIVORA
+## ◈ THE EXPERIENCE
 
-**LIVORA** is a modern architectural and interior design experience that brings spaces to life through immersive visuals, sophisticated aesthetics, and interactive digital experiences.
+**LIVORA** reimagines the way people discover and experience interior architecture.
 
-Instead of presenting interior design as static images, LIVORA embraces the power of 3D-inspired visual storytelling to make exploring architectural spaces more engaging, intuitive, and realistic.
+Combining immersive visual presentation, modern web design, elegant interactions, and architectural aesthetics, LIVORA transforms a traditional browsing experience into something more engaging.
 
-From contemporary living spaces to thoughtfully designed interiors, LIVORA aims to bridge the gap between imagination and reality.
+Every space tells a story. Every detail creates an atmosphere.
 
-> **Design isn't just about how a space looks. It's about how it makes you feel.**
+Our goal is to bring the feeling of exploring beautifully designed spaces directly to the web.
 
-## 🌟 Features
+## ✦ CORE FEATURES
 
-- **Immersive 3D Visual Experience** – A visually rich architectural experience with depth, perspective, and modern presentation.
-- **Premium UI/UX** – Carefully designed interfaces with elegant typography, refined layouts, and sophisticated visual elements.
-- **Smooth Animations** – Fluid transitions and interactive motion that enhance the browsing experience.
-- **Modern Architecture Aesthetic** – A combination of contemporary design principles and elegant interior inspiration.
-- **Responsive Experience** – Designed with different screen sizes and devices in mind.
-- **Visual Storytelling** – Presenting interior spaces through an engaging digital experience.
-
-## 🎨 Design Philosophy
-
-LIVORA follows three fundamental principles:
-
-| Principle | Vision |
+| Feature | Description |
 |---|---|
-| Minimalism | Clean layouts without unnecessary distractions |
-| Realism | Immersive architectural visuals and spatial depth |
-| Interaction | Motion and transitions that make exploration engaging |
+| Immersive Visuals | Architectural and interior design presentation |
+| Premium UI/UX | Modern layouts and refined typography |
+| Smooth Animations | Fluid transitions and motion |
+| 3D Aesthetics | Depth, perspective, and visual storytelling |
+| Responsive Design | Experience across different screen sizes |
 
-### The Visual Identity
+## ◈ DESIGN LANGUAGE
 
-- Elegant and contemporary aesthetic
-- Cinematic visual presentation
-- Refined spacing and typography
-- Smooth motion and transitions
-- Architecture-inspired visual hierarchy
+**Visual direction**
 
-## 🛠️ Technology Stack
+- Premium architectural aesthetics
+- Cinematic presentation
+- Elegant typography
+- Depth-inspired layouts
+- Sophisticated transitions
+- Modern minimalism
 
-The project uses modern web development technologies.
+## ◈ TECHNOLOGY
 
-> Update this section to match the actual dependencies in your project.
+Update the stack below to match the actual implementation.
 
-- **Frontend:** React / Next.js (depending on implementation)
-- **Styling:** CSS / Tailwind CSS
-- **3D Graphics:** Three.js / React Three Fiber (if implemented)
-- **Animations:** Framer Motion / GSAP (if implemented)
-- **Deployment:** Vercel
-- **Version Control:** Git & GitHub
+- Frontend: React / Next.js
+- Styling: CSS / Tailwind CSS
+- 3D: Three.js / React Three Fiber (if implemented)
+- Animation: Framer Motion / GSAP (if implemented)
+- Deployment: Vercel
 
-## 🚀 Live Experience
+## ✦ LIVE EXPERIENCE
 
-Explore the deployed project:
+<p align="center">
+  <a href="https://livora-seven-ebon.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_THE_LIVORA_EXPERIENCE-Explore_Now-1a1a1a?style=for-the-badge" alt="Visit LIVORA"/>
+  </a>
+</p>
 
-### [🌐 Experience LIVORA](https://livora-seven-ebon.vercel.app/)
+**Live Website:** https://livora-seven-ebon.vercel.app/
 
-## 💻 Getting Started
+## ◈ GETTING STARTED
 
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate into the project
+Clone the repository:
 
 ```bash
+git clone YOUR_REPOSITORY_URL
 cd YOUR_PROJECT_FOLDER
 ```
 
-### 3. Install dependencies
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+Run locally:
 
 ```bash
 npm run dev
 ```
 
-### 5. Open in your browser
+Open `http://localhost:3000` in your browser.
 
-```text
-http://localhost:3000
-```
-
-*Note: Commands may vary depending on the framework and project configuration.*
-
-## 📸 Screenshots
-
-Add your actual project screenshots here to showcase the interface.
-
-```md
-![LIVORA Homepage](screenshots/homepage.png)
-![LIVORA Interior Experience](screenshots/interior.png)
-```
-
-Recommended screenshots:
-- Homepage / Hero section
-- 3D architectural showcase
-- Interior design sections
-- Interactive animations
-- Mobile responsive view
-
-## 🔮 Future Enhancements
-
-LIVORA has the potential to evolve into a complete digital interior-design platform.
+## ✦ FUTURE POSSIBILITIES
 
 - Interactive 3D room customization
 - Real-time furniture placement
+- AI-powered interior recommendations
 - Material and texture customization
-- AI-powered interior design suggestions
-- Virtual walkthrough experiences
-- Multiple architectural styles and themes
-- Save and share personalized room designs
+- Virtual architectural walkthroughs
+- Personalized room experiences
 
-## 👨‍💻 Project Vision
+## ◈ OUR VISION
 
-Our vision is to make architectural visualization more accessible, interactive, and exciting.
+We believe architecture should not simply be viewed.
 
-LIVORA explores how modern web technologies can transform traditional interior design presentations into immersive digital experiences.
+It should be explored, experienced, and imagined.
 
-## 🤝 Contributing
-
-Contributions, ideas, and improvements are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
-
-## 📄 License
-
-This project is intended for educational and creative development purposes. Add an appropriate open-source license if you wish to distribute it.
+LIVORA brings together creativity and technology to redefine how digital spaces are presented.
 
 ---
 
 <p align="center">
-  <b>LIVORA</b>
+  <b>L I V O R A</b>
   <br/>
-  <i>Imagine it. Design it. Experience it.</i>
+  <i>Where every space becomes an experience.</i>
   <br/><br/>
-  Made with ❤️ and a passion for immersive design.
+  Crafted with passion. Powered by imagination.
 </p>
