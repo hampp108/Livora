@@ -1,25 +1,21 @@
 <div align="center">
 
-# ✦ LIVORA
+<img src="assets/livora-logo.png" width="230" alt="LIVORA Logo" />
 
-### REIMAGINE YOUR SPACE. EXPERIENCE YOUR VISION.
+# LIVORA
 
-**An immersive 3D architectural interior design experience.**
+### *Reimagine Your Space. Experience Your Vision.*
 
-<br>
+An immersive architectural interior design experience.
+
+<br/>
 
 <a href="https://livora-seven-ebon.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_LIVORA-71866B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORE_LIVORA-Live_Demo-71866B?style=for-the-badge" alt="Live Demo"/>
 </a>
+<img src="https://img.shields.io/badge/DEPLOYED_ON-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel"/>
 
-<img src="https://img.shields.io/badge/STATUS-Developed-C5A77D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEPLOYMENT-Vercel-black?style=for-the-badge&logo=vercel" />
-
-<br><br>
-
-<img src="assets/livora-3d-orbit.gif" width="620" alt="LIVORA rotating 3D animation"/>
-
-<br>
+<br/><br/>
 
 *Design beyond dimensions. Experience beyond imagination.*
 
@@ -27,137 +23,205 @@
 
 ---
 
-## 🏛️ About LIVORA
+## 📋 Table of Contents
 
-**LIVORA** is an architectural 3D interior design studio built to bring creative spaces to life through immersive digital experiences.
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Screenshots](#️-screenshots)
+- [Tech Stack](#️-tech-stack)
+- [Our Vision](#-our-vision)
+- [Getting Started](#-getting-started)
+- [Future Enhancements](#-future-enhancements)
+- [Team](#-team)
+- [Project Links](#-project-links)
+- [Acknowledgements](#️-acknowledgements)
 
-Traditional interior design often makes it difficult to visualise how furniture, colours, lighting and spatial arrangements will look together.
+---
 
-LIVORA explores a more interactive approach by bringing interior design and 3D visualisation into a single digital experience.
+##  About the Project
 
-Our goal is to make designing spaces more visual, engaging and intuitive.
+**LIVORA** is an architectural 3D interior design platform built to transform how people visualise and plan their living spaces.
 
-## ✨ Key Highlights
+Choosing furniture, exploring interior styles, and imagining how a room will look — before making real-world changes — can be challenging. 
 
-- 🏠 **Immersive 3D Experiences** – Explore architectural spaces through an interactive digital environment.
-- 🎨 **Interior Design** – Experiment with different interior aesthetics and creative possibilities.
-- 🪑 **Furniture Visualisation** – Experience how furniture and decorative elements contribute to a space.
-- 💡 **Lighting and Atmosphere** – Explore how lighting influences the appearance of interiors.
-- 🎬 **Interactive Animations** – Create a visually engaging experience through motion and transitions.
-- 🌐 **Web-Based Experience** – Access the application directly through a browser.
+LIVORA brings these elements together through an elegant digital experience focused on room visualisation and interior design.
+With an immersive 3D-inspired interface, curated interior aesthetics, and a personalised design experience, 
 
-*Only features implemented in the deployed application should be presented as completed functionality.*
+LIVORA makes exploring creative spaces intuitive and engaging.
 
-## 💫 Why LIVORA?
+> **Our philosophy is simple:**
+>
+> ### *Your space. Your style. Your vision.*
 
-Designing a room should not be limited to looking at pictures and imagining the result.
+---
 
-It should be an experience.
+## ✨ Features
 
-LIVORA aims to bridge the gap between imagination and visualisation by exploring the possibilities of interactive 3D technology.
+| Feature | Description |
+|---------|-------------|
+| 🏠 **Room Exploration** | Explore living rooms, bedrooms, kitchens, and study rooms. |
+| 🎨 **Interior Styles** | Discover Minimalist, Modern Luxury, Scandinavian, Traditional, and Contemporary aesthetics. |
+| 🧊 **3D Room Visualisation** | Experience interior layouts through an interactive 3D room preview. |
+| 🪑 **Interior Inspiration** | Visualise furniture arrangements, decorative elements, and room aesthetics. |
+| 💰 **Budget Awareness** | Explore estimated catalog costs alongside room visualisations. |
+| 🔐 **User Authentication** | Sign in with email, password, remember-me, and Google sign-in options. |
+| 📐 **Personalised Design Experience** | A design-oriented interface for exploring and planning creative spaces. |
+
+---
+
+## 🖼️ Screenshots
+
+<div align="center">
+
+### Home — Explore Your Creative Space
+
+<img src="assets/screenshots/homepage.png" width="600" alt="LIVORA Homepage"/>
+
+*Discover room categories, explore interior styles, and preview architectural spaces.*
+
+<br/><br/>
+
+### Sign In — Enter Your Creative Space
+
+<img src="assets/screenshots/signin.png" width="600" alt="LIVORA Sign In Page"/>
+
+*A minimal, elegant authentication interface inspired by modern architectural design.*
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technology |
+|-------|------------|
+| **Frontend Framework** | `To Be Confirmed` |
+| **Programming Language** | `To Be Confirmed` |
+| **Styling** | `To Be Confirmed` |
+| **3D Engine** | `To Be Confirmed` |
+| **Animation Library** | `To Be Confirmed` |
+| **Backend / Database** | `To Be Confirmed` |
+| **Authentication** | `To Be Confirmed` |
+| **Deployment** | Vercel |
+
+</div>
+
+> **Note:** The exact framework and library names should be confirmed from the project's `package.json` and source code.
+
+---
 
 ## 🎯 Our Vision
 
-To make architectural visualisation more accessible, interactive and engaging by transforming the way people experience interior spaces.
+We believe interior design should be more than imagining how a space might look.
 
-## 🛠️ Technology Stack
+It should be an experience that connects **creativity** with **visualisation**.
 
-| Category | Technology |
-|---|---|
-| Deployment | Vercel |
-| Frontend | Update with project framework |
-| Programming Language | Update with project language |
-| Styling | Update with styling technology |
-| 3D Rendering | Update with 3D library |
-| Animations | Update with animation library |
+LIVORA aims to bridge the gap between imagination and spatial planning — making architectural interior experiences more accessible, engaging, and intuitive.
 
-## 🚀 Getting Started
+---
 
-### 1. Visit the Live Website
+## Getting Started
 
-Explore LIVORA:
+Want to explore or run LIVORA locally?
 
-**https://livora-seven-ebon.vercel.app/**
+### Prerequisites
 
-### 2. Run Locally
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
 
-Clone the repository:
+### Installation
+
+**1. Clone the repository**
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Navigate into the project:
+**2. Navigate to the project directory**
 
 ```bash
 cd livora
 ```
 
-Install dependencies:
+**3. Install dependencies**
 
 ```bash
 npm install
 ```
 
-Start the development server:
+**4. Start the development server**
 
 ```bash
 npm run dev
 ```
 
-Open the local development URL displayed in your terminal.
+**5. Open the local URL**
 
-## 📸 Screenshots
+Visit the development URL displayed in your terminal.
 
-Add screenshots of the following sections:
+> **Note:** These commands assume the project uses an npm-based development setup.
 
-- Landing page
-- Main dashboard
-- 3D interior design environment
-- Furniture customisation
-- Final room visualisation
+---
 
-## 🔮 Future Possibilities
+## 🔮 Future Enhancements
 
-- More realistic architectural visualisation.
-- Expanded furniture and interior collections.
-- Advanced material and texture customisation.
-- More immersive 3D interactions.
-- Enhanced room personalisation.
-- Additional architectural design experiences.
+- More detailed and realistic 3D room visualisation
+- Expanded furniture and interior collections
+- Advanced material, colour, and texture customisation
+- Enhanced lighting and environment controls
+- More personalised room recommendations
+- Improved budget planning and cost estimation
+- Additional architectural and interior design experiences
 
-## 👥 Our Team
+---
 
-### 404:Boys Not Found
+## 👥 Team
 
-Built with creativity, curiosity and a passion for technology.
+<div align="center">
 
-| Team Member | Role |
-|---|---|
+### 404: Boys Not Found
+
+*Built with creativity, collaboration, and a passion for technology.*
+
+| Team Member | Contribution |
+|-------------|--------------|
 | **Seemakurthi Koushitha** | Team Member |
 | **Syed Shaguftah Mahnoor** | Team Member |
 
-## 🌐 Project Links
+</div>
 
-- **Live Website:** https://livora-seven-ebon.vercel.app/
-- **GitHub Repository:** YOUR_GITHUB_REPOSITORY_URL
+---
+
+##  Project Links
+
+| Resource | Link |
+|----------|------|
+| **Live Application** | [Visit LIVORA](https://livora-seven-ebon.vercel.app/) |
+| **GitHub Repository** | [(https://github.com/hampp108/Livora)] |
+
+---
 
 ## ❤️ Acknowledgements
 
-LIVORA represents our exploration of modern web development, architectural creativity and immersive digital experiences.
+LIVORA represents our exploration of modern web development, architectural creativity, and immersive digital experiences.
 
-We believe great spaces begin with imagination.
+We hope to make the process of imagining, exploring, and designing beautiful spaces a little more exciting.
 
 ---
 
 <div align="center">
 
-### LIVORA
+<img src="assets/livora-logo.png" width="150" alt="LIVORA"/>
 
-**DESIGN. VISUALISE. EXPERIENCE.**
+### DESIGN. VISUALISE. EXPERIENCE.
 
 *Where imagination finds its space.*
 
-⭐ If you like our project, consider giving this repository a star!
+<br/>
+
+**Made with ❤️ by 404: Boys Not Found **
 
 </div>
