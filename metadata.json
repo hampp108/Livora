@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Livora",
+  "description": "Commercial-grade 3D interior design and architectural visualization platform with realistic PBR room rendering, curated themes, lighting studio, walkthrough mode, and Gemini-assisted spatial planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
